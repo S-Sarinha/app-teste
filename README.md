@@ -1,2 +1,2 @@
 # app-teste
-Aplicação web de busca de erros
+Error-checking web application
